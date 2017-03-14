@@ -21,3 +21,12 @@ vectors and with the help of NLTK, we would analyze semantic similarities betwee
 example, Arjuna was the son of Indra- the king of celestials and Krishna was son of Vasudeva. If an
 input is given as Arjuna, Indra and Krishan, system should be capable to provide an answer as
 Vasudeva, based on the knowledge learnt using NLP.
+
+### Datasets and Inputs:
+Dataset is a set 18 text file, where in each text file is Parva (Which means book in Sanskrit).
+Below is an image taken from Wikipedia, having information of all 18 books.
+
+Dataset was obtained from an online library, Nitaaiveda. Below is the statistics of the books,
+altogether combined.
+
+This corpus of data, of about 29100 words will be fed as input to the model to create word vectors using word2vec and with the help of NLTK, we would analyze semantic similarities between characters.
