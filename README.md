@@ -30,3 +30,7 @@ Dataset was obtained from an online library, Nitaaiveda. Below is the statistics
 altogether combined.
 
 This corpus of data, of about 29100 words will be fed as input to the model to create word vectors using word2vec and with the help of NLTK, we would analyze semantic similarities between characters.
+
+
+### Solution Statement:
+As described above the corpus of words will be used as an input to create word vectors using word2vec, with the help of t-SNE or PCA reduce the dimensions of the word vectors and finally use cosine similarity to analyze semantic similarities, i.e. to answer relationship questions based on the learning. The end solution of this project will be to analyze relationships and logics in the dataset.
